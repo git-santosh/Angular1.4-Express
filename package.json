@@ -1,0 +1,19 @@
+{
+  "name": "demoapp",
+  "version": "1.0.0",
+  "description": "This project is a sample application demonstrating a more fully developed realistic single page angular application.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.6",
+    "express": "^4.13.0",
+    "rootpath": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "santosh Suryawanshi",
+  "license": "ISC"
+}
